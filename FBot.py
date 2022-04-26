@@ -143,5 +143,5 @@ async def leave(ctx):
 
 
 
-
-client.run('OTU1OTMxNDUzMDA5NTY3NzY0.Yjo2ig.ZbNPTEvQzpr2ShYTAbQXKwvapmw')
+#put your code on the command below
+client.run('')
